@@ -7,6 +7,6 @@ CA 1 - Investigating classification problems using K-Nearest Neighbour, MLP Weig
 
 CA 2 - Ensemble Methods - Decision Trees, Random Forests and Boosted Trees classification. Bagging vs Boosting. 
 
-CA 3 - TBC
+CA 3 - Large Margin Classifiers and Linear/Non-Linear Support Vector Machines.
 
-CA 4 - TBC
+CA 4 - Reinforcement Learning to solve GridWorld problems using SARSA and Q-learning.
